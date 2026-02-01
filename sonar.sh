@@ -13,3 +13,4 @@ su - sonar
 #sh /opt/sonarqube-8.9.6.50800/bin/linux/sonar.sh start
 #echo "user=admin & password=admin"
 #  for sonar first execute 3 to 10 cmds and then execure this cd /opt/ then you found a sonar folder go inside folder you found bin and then inside bin you found sonar.sh you sould start that service by using ./sonar.sh start
+# sonar cube port -9000 and ./sonar.sh stop and restart and status
